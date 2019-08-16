@@ -1,3 +1,3 @@
 vg=int(input())
-sg=list(map(int,input().split()))
-print(min(sg))
+th=list(map(int,input().split()))
+print(min(th))
